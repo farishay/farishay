@@ -1,14 +1,14 @@
- <p align="center">
-    <img
-      src="https://i.pinimg.com/originals/eb/83/81/eb8381bcdaeace4d48613a8ad6d80baa.gif"
-      alt="banner"
-      hight="400px"
-      width="800px"
-    />
-  </p>
-<h1 align="center">Hi 👋, I'm Farwa Tariq</h1>
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9548E0&center=true&vCenter=true&width=500&lines=%22Booting+Farwa+Tariq+System%22;Skills+Uploading.....;%22Debugging+life+%26+compiling+dreams%22" alt="Typing SVG" /></a>
+</div>
+</h1>
 </p>
 <h3 align="center">🌟 "From Hello World to Real-World Solutions"</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p><li>🌟 About Me </li>
 <br>
 - 👩‍💻 Aspiring Web & App Developer | 💡 Lifelong Learner  
