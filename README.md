@@ -1,5 +1,10 @@
  <p align="center">
-    <img src="https://i.pinimg.com/originals/e2/8d/61/e28d61b0ce1b686bbd9c19b98912101f.gif" alt="Your Banner" />
+    <img
+      src="https://i.pinimg.com/originals/eb/83/81/eb8381bcdaeace4d48613a8ad6d80baa.gif"
+      alt="banner"
+      hight="400px"
+      width="800px"
+    />
   </p>
 <h1 align="center">Hi 👋, I'm Farwa Tariq</h1>
 </p>
