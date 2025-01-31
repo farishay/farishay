@@ -1,16 +1,17 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-</h1>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9548E0&center=true&vCenter=true&width=500&lines=%22Booting+Farwa+Tariq+System%22;Skills+Uploading.....;%22Debugging+life+%26+compiling+dreams%22" alt="Typing SVG" /></a>
+ <h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9548E0&center=true&vCenter=true&width=500&lines=%22Booting+Farwa+Tariq+System%22;Skills+Uploading.....;%22Debugging+life+%26+compiling+dreams%22" alt="Typing SVG" /></a>
+ </h1>
 </div>
-</h1>
+
 </p>
 <h3 align="center">🌟 "From Hello World to Real-World Solutions"</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p><li>🌟 About Me </li>
-<br>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<p>🌟 About Me: <br>
 - 👩‍💻 Aspiring Web & App Developer | 💡 Lifelong Learner  
 <br>
 -🔭 Currently learning: Web and App Development  
@@ -19,7 +20,7 @@
 <br>
 -🎯 Goal: Create dynamic websites and user-friendly apps 
 </p>
-<p><li>🌱 Current Focus:</li> <br> 
+<p>🌱 Current Focus:<br>  
 - Learning the basics of web development <br>  
 - Exploring app development frameworks  
 </p>
