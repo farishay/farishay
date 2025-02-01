@@ -7,10 +7,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9548E0&center=true&vCenter=true&width=500&lines=%22Booting+Farwa+Tariq+System%22;Skills+Uploading.....;%22Debugging+life+%26+compiling+dreams%22" alt="Typing SVG" /></a>
  </h1>
 </div>
-
-</p>
 <h3 align="center">🌟 "From Hello World to Real-World Solutions"</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="right">
+<img align="right"   alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 <p>🌟 About Me: <br>
 - 👩‍💻 Aspiring Web & App Developer | 💡 Lifelong Learner  
 <br>
@@ -20,11 +20,11 @@
 <br>
 -🎯 Goal: Create dynamic websites and user-friendly apps 
 </p>
+
 <p>🌱 Current Focus:<br>  
 - Learning the basics of web development <br>  
 - Exploring app development frameworks  
 </p>
- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/farishay](https://github.com/farishay)
 - 📫 How to reach me: farwa.tariq2434@gmail.com
